@@ -1,0 +1,2 @@
+rootProject.name='Contact_Manager'
+include ':app'
